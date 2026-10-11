@@ -1,0 +1,30 @@
+{
+ "name": "The Apollo landing sites",
+ "blurb": "Six landings, 1969 to 1972, from the Sea of Tranquility to the Taurus-Littrow valley. A tour of where people walked on the Moon.",
+ "body": "moon",
+ "scene": {"lat": 5, "lon": 10, "zoom": 3.2, "pitch": 0, "bearing": 0, "layers": {"landmarks": true, "traverses": true, "relief": true}},
+ "tour": [
+  {"title": "Apollo 11 · Tranquility Base", "lat": 0.67408, "lon": 23.47297, "zoom": 9, "pitch": 45, "bearing": 20, "seconds": 16,
+   "text": "20 July 1969. Armstrong flew the Eagle past a boulder field and set down with about twenty seconds of fuel to spare. He and Aldrin stayed outside for two and a half hours, never more than sixty metres from the lander. The descent stage, the flag's pole and the footprints are still here."},
+  {"title": "Apollo 12 · Ocean of Storms", "lat": -3.01239, "lon": -23.42157, "zoom": 9, "pitch": 45, "bearing": 40, "seconds": 14,
+   "text": "November 1969: a pinpoint landing. Conrad and Bean set down within walking distance of Surveyor 3, a robot that had been sitting in this crater since 1967, and brought pieces of it home to see what two and a half years on the Moon does to a machine."},
+  {"title": "Apollo 14 · Fra Mauro", "lat": -3.6453, "lon": -17.47136, "zoom": 9, "pitch": 45, "bearing": 60, "seconds": 14,
+   "text": "Apollo 13's intended target, reached in February 1971 by Shepard and Mitchell. They hauled a cart of tools up the flank of Cone Crater and turned back, exhausted, some twenty metres short of the rim without knowing it. Shepard hit two golf balls before leaving."},
+  {"title": "Apollo 15 · Hadley Rille", "lat": 26.13222, "lon": 3.63386, "zoom": 9, "pitch": 55, "bearing": 110, "seconds": 16,
+   "text": "The first of the long stays, July 1971, with the first lunar rover. Scott and Irwin drove to the edge of Hadley Rille, a sinuous channel a kilometre wide, under the Apennine mountains. They found the Genesis Rock, a piece of the Moon's original crust four billion years old."},
+  {"title": "Apollo 16 · Descartes Highlands", "lat": -8.97301, "lon": 15.50019, "zoom": 9, "pitch": 45, "bearing": 150, "seconds": 14,
+   "text": "April 1972, the only landing in the central highlands. Young and Duke expected volcanic rock and found breccias instead, rock shattered and welded by impacts. That changed how geologists read the bright lunar uplands. Duke left a photograph of his family on the surface."},
+  {"title": "Apollo 17 · Taurus-Littrow", "lat": 20.1908, "lon": 30.7717, "zoom": 9, "pitch": 55, "bearing": 200, "seconds": 18,
+   "text": "December 1972, the last visit. Cernan and the geologist Harrison Schmitt spent three days in a valley between mountains two kilometres high, drove thirty-five kilometres, and found orange soil: volcanic glass beads from a fire fountain three and a half billion years ago. Cernan's were the last footprints."}
+ ],
+ "places": [
+  {"name": "Surveyor 3", "lat": -2.99, "lon": -23.34, "kind": "mission",
+   "summary": "A robotic lander from April 1967 that scooped and tested the soil. Apollo 12 landed 160 metres away in November 1969 and its crew removed the camera and other parts for study on Earth.",
+   "facts": ["Landed 20 April 1967", "Bounced twice before settling", "Parts returned by Apollo 12"],
+   "links": [{"title": "Surveyor 3 at NASA's Solar System Exploration", "url": "https://science.nasa.gov/mission/surveyor-3/"}]}
+ ],
+ "author": "Shell:B",
+ "license": "CC-BY-4.0",
+ "version": "1.0",
+ "tags": ["moon", "apollo", "history", "spaceflight"]
+}

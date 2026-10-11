@@ -1,0 +1,32 @@
+{
+ "name": "Every landing on Mars",
+ "blurb": "From Viking 1 in 1976 to Perseverance and Zhurong in 2021: where the landers and rovers came down, and what each one found.",
+ "body": "mars",
+ "scene": {"lat": 10, "lon": 20, "zoom": 2.4, "pitch": 0, "bearing": 0, "layers": {"landmarks": true, "traverses": true, "relief": true, "dust": false}},
+ "tour": [
+  {"title": "Viking 1 · Chryse Planitia", "lat": 22.27, "lon": -47.95, "zoom": 8, "pitch": 40, "bearing": 0, "seconds": 14,
+   "text": "20 July 1976, seven years to the day after Apollo 11. The first lander to work on Mars sent back a rock-strewn plain under a salmon sky and ran for six years. Its biology experiments gave answers that are still argued about."},
+  {"title": "Viking 2 · Utopia Planitia", "lat": 47.64, "lon": 134.29, "zoom": 8, "pitch": 40, "bearing": 30, "seconds": 12,
+   "text": "September 1976, far to the north. Viking 2 photographed frost on the ground in the Martian winter, a thin coat of water ice that came and went with the seasons."},
+  {"title": "Pathfinder and Sojourner · Ares Vallis", "lat": 19.13, "lon": -33.21, "zoom": 8, "pitch": 45, "bearing": 60, "seconds": 14,
+   "text": "4 July 1997. A lander wrapped in airbags bounced to a stop in an ancient flood channel and let loose Sojourner, a rover the size of a microwave oven. It was meant to last a week and drove for nearly three months, the first wheels on another planet since the Moon."},
+  {"title": "Spirit · Gusev Crater", "lat": -14.57, "lon": 175.47, "zoom": 8, "pitch": 45, "bearing": 90, "seconds": 14,
+   "text": "January 2004. Spirit landed in a crater that looked like an old lake bed, found lava instead, then climbed the Columbia Hills and found evidence of ancient hot springs. A ninety-day mission that lasted six years, until a sand trap and the winter ended it."},
+  {"title": "Opportunity · Meridiani Planum", "lat": -1.95, "lon": -5.53, "zoom": 8, "pitch": 45, "bearing": 120, "seconds": 16,
+   "text": "Three weeks after Spirit, Opportunity rolled into a small crater and stopped in front of layered bedrock, the first ever seen on Mars. Haematite spherules, the \"blueberries\", said water had once soaked this ground. It drove 45 kilometres over fourteen years, until a global dust storm darkened the sky in 2018."},
+  {"title": "Phoenix · Vastitas Borealis", "lat": 68.22, "lon": -125.75, "zoom": 8, "pitch": 40, "bearing": 150, "seconds": 12,
+   "text": "May 2008, inside the arctic circle. Phoenix dug a trench and watched white chunks vanish over four days: water ice, just under the soil. It worked through the northern summer and fell silent when the polar night came, as planned."},
+  {"title": "Curiosity · Gale Crater", "lat": -4.59, "lon": 137.44, "zoom": 8, "pitch": 50, "bearing": 180, "seconds": 16,
+   "text": "August 2012, lowered on cables from a hovering rocket stage. Curiosity found an ancient freshwater lake with the chemistry life would need, then started up the flanks of Mount Sharp, reading billions of years of climate in the layers. It is still climbing."},
+  {"title": "InSight · Elysium Planitia", "lat": 4.5, "lon": 135.62, "zoom": 8, "pitch": 40, "bearing": 210, "seconds": 12,
+   "text": "November 2018. A lander that listened rather than drove. Its seismometer recorded more than a thousand marsquakes and let geophysicists measure the planet's core for the first time. Dust on the solar panels ended the mission in December 2022."},
+  {"title": "Perseverance and Ingenuity · Jezero Crater", "lat": 18.44, "lon": 77.45, "zoom": 8, "pitch": 50, "bearing": 240, "seconds": 18,
+   "text": "February 2021, into a river delta fanning across the floor of a crater lake. Perseverance drills and caches samples for a future return to Earth. Ingenuity, the helicopter that rode in under its belly, was meant to fly five times and flew seventy-two before a rotor broke in January 2024."},
+  {"title": "Zhurong · Utopia Planitia", "lat": 25.07, "lon": 109.93, "zoom": 8, "pitch": 40, "bearing": 270, "seconds": 12,
+   "text": "May 2021, China's first rover on Mars, landed on the southern edge of the same plain as Viking 2. Its radar saw layers that may be the shore of an ancient northern ocean. It went into hibernation for the winter in May 2022 and did not wake."}
+ ],
+ "author": "Shell:B",
+ "license": "CC-BY-4.0",
+ "version": "1.0",
+ "tags": ["mars", "rovers", "spaceflight", "history"]
+}

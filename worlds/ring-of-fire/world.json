@@ -1,0 +1,30 @@
+{
+ "name": "Ring of Fire",
+ "blurb": "Nine volcanoes around the Pacific rim, from Antarctica to Japan, with the plate boundary that feeds them. Turn on the earthquake layer to see it working.",
+ "body": "earth",
+ "scene": {"lat": 10, "lon": -160, "zoom": 1.8, "pitch": 0, "bearing": 0, "layers": {"quakes": true, "relief": true, "terrain3d": false}},
+ "tour": [
+  {"title": "Mount Erebus, Antarctica", "lat": -77.5297, "lon": 167.1533, "zoom": 9, "pitch": 55, "bearing": 30, "seconds": 14,
+   "text": "The southernmost active volcano on Earth, 3,794 metres above the Ross Sea, with a lake of molten lava that has been open to the sky since at least 1972. Ice towers grow where its steam vents meet the polar air."},
+  {"title": "Ruapehu, New Zealand", "lat": -39.2817, "lon": 175.5685, "zoom": 10, "pitch": 55, "bearing": 60, "seconds": 12,
+   "text": "A crater lake sits in the summit of the North Island's highest peak. When the lake drains through an eruption it sends lahars, rivers of mud and ash, down the ski fields. One in 1953 destroyed a railway bridge minutes before a train arrived."},
+  {"title": "Krakatoa, Indonesia", "lat": -6.102, "lon": 105.423, "zoom": 10, "pitch": 50, "bearing": 90, "seconds": 16,
+   "text": "In August 1883 the island blew itself apart with a sound heard 4,800 kilometres away. The tsunamis killed more than 36,000 people and the dust turned sunsets red around the world for years. Anak Krakatau, the child of Krakatoa, rose from the sea in 1927 and collapsed again in 2018."},
+  {"title": "Pinatubo, Philippines", "lat": 15.1429, "lon": 120.3496, "zoom": 10, "pitch": 50, "bearing": 120, "seconds": 14,
+   "text": "Dormant for five hundred years, then in June 1991 the second-largest eruption of the twentieth century. Twenty million tonnes of sulphur dioxide reached the stratosphere and cooled the planet by about half a degree for two years."},
+  {"title": "Mount Fuji, Japan", "lat": 35.3606, "lon": 138.7274, "zoom": 10, "pitch": 55, "bearing": 150, "seconds": 12,
+   "text": "Three volcanoes stacked on top of each other over a hundred thousand years, the last of them the near-perfect cone. Fuji last erupted in 1707 and dusted Edo, now Tokyo, with ash. It is watched closely and climbed by a quarter of a million people each summer."},
+  {"title": "Kīlauea, Hawaiʻi", "lat": 19.4069, "lon": -155.2834, "zoom": 10, "pitch": 50, "bearing": 200, "seconds": 14,
+   "text": "Not on the ring but at its heart: a hotspot volcano, fed by a plume from deep in the mantle rather than a sinking plate. From 1983 to 2018 it erupted almost without pause, adding two square kilometres of new land to the island."},
+  {"title": "Mount St. Helens, USA", "lat": 46.1914, "lon": -122.1956, "zoom": 10, "pitch": 55, "bearing": 230, "seconds": 14,
+   "text": "On 18 May 1980 the north face slid away in the largest landslide in recorded history, uncorking a sideways blast that flattened six hundred square kilometres of forest. The summit is 400 metres lower than it was the day before."},
+  {"title": "Popocatépetl, Mexico", "lat": 19.0225, "lon": -98.6278, "zoom": 10, "pitch": 50, "bearing": 260, "seconds": 12,
+   "text": "\"Smoking mountain\" in Nahuatl, 70 kilometres from Mexico City and visible from it on a clear day. Quiet for most of the twentieth century, active again since 1994, with ash falls on the city several times a year."},
+  {"title": "Cotopaxi, Ecuador", "lat": -0.6837, "lon": -78.4378, "zoom": 10, "pitch": 55, "bearing": 300, "seconds": 12,
+   "text": "One of the highest active volcanoes in the world at 5,897 metres, with a glacier on top. Its danger is meltwater: an eruption in 1877 sent lahars more than a hundred kilometres to the Pacific and the Amazon."}
+ ],
+ "author": "Shell:B",
+ "license": "CC-BY-4.0",
+ "version": "1.0",
+ "tags": ["earth", "volcanoes", "geology", "pacific"]
+}

@@ -1,0 +1,86 @@
+{
+ "format": 1,
+ "kind": "world",
+ "items": [
+  {
+   "id": "mars-landings",
+   "name": "Every landing on Mars",
+   "blurb": "From Viking 1 in 1976 to Perseverance and Zhurong in 2021: where the landers and rovers came down, and what each one found.",
+   "body": "mars",
+   "stops": 10,
+   "places": 0,
+   "overlays": 0,
+   "author": "Shell:B",
+   "license": "CC-BY-4.0",
+   "version": "1.0",
+   "tags": [
+    "mars",
+    "rovers",
+    "spaceflight",
+    "history"
+   ],
+   "path": "worlds/mars-landings/world.json",
+   "preview": null
+  },
+  {
+   "id": "ring-of-fire",
+   "name": "Ring of Fire",
+   "blurb": "Nine volcanoes around the Pacific rim, from Antarctica to Japan, with the plate boundary that feeds them. Turn on the earthquake layer to see it working.",
+   "body": "earth",
+   "stops": 9,
+   "places": 0,
+   "overlays": 0,
+   "author": "Shell:B",
+   "license": "CC-BY-4.0",
+   "version": "1.0",
+   "tags": [
+    "earth",
+    "volcanoes",
+    "geology",
+    "pacific"
+   ],
+   "path": "worlds/ring-of-fire/world.json",
+   "preview": null
+  },
+  {
+   "id": "apollo-sites",
+   "name": "The Apollo landing sites",
+   "blurb": "Six landings, 1969 to 1972, from the Sea of Tranquility to the Taurus-Littrow valley. A tour of where people walked on the Moon.",
+   "body": "moon",
+   "stops": 6,
+   "places": 1,
+   "overlays": 0,
+   "author": "Shell:B",
+   "license": "CC-BY-4.0",
+   "version": "1.0",
+   "tags": [
+    "moon",
+    "apollo",
+    "history",
+    "spaceflight"
+   ],
+   "path": "worlds/apollo-sites/world.json",
+   "preview": null
+  },
+  {
+   "id": "silk-road",
+   "name": "The Silk Road",
+   "blurb": "Xi'an to Constantinople along the northern route: nine caravan cities, the deserts and passes between them, and the line of the road as an overlay.",
+   "body": "earth",
+   "stops": 9,
+   "places": 0,
+   "overlays": 1,
+   "author": "Shell:B",
+   "license": "CC-BY-4.0",
+   "version": "1.0",
+   "tags": [
+    "earth",
+    "history",
+    "trade",
+    "asia"
+   ],
+   "path": "worlds/silk-road/world.json",
+   "preview": null
+  }
+ ]
+}

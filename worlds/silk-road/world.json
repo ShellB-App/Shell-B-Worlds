@@ -1,0 +1,31 @@
+{
+ "name": "The Silk Road",
+ "blurb": "Xi'an to Constantinople along the northern route: nine caravan cities, the deserts and passes between them, and the line of the road as an overlay.",
+ "body": "earth",
+ "scene": {"lat": 38, "lon": 72, "zoom": 3.1, "pitch": 0, "bearing": 0, "layers": {"relief": true, "wonders": true}},
+ "overlays": ["route.geojson"],
+ "tour": [
+  {"title": "Xi'an", "lat": 34.3416, "lon": 108.9398, "zoom": 9, "pitch": 45, "bearing": 280, "seconds": 14,
+   "text": "Chang'an, the Tang capital, a million people inside walls thirty-six kilometres round. Caravans left through the western gate with silk, paper and porcelain and came back with horses, glass, grapes and new religions. The Terracotta Army stands outside the city."},
+  {"title": "Dunhuang", "lat": 40.1421, "lon": 94.6619, "zoom": 9, "pitch": 45, "bearing": 280, "seconds": 14,
+   "text": "The last town before the Taklamakan. In the Mogao Caves nearby, Buddhist painters worked for a thousand years, and in 1900 a sealed room gave up fifty thousand manuscripts, among them the oldest dated printed book, a Diamond Sutra of 868."},
+  {"title": "Kashgar", "lat": 39.4704, "lon": 75.9898, "zoom": 9, "pitch": 45, "bearing": 270, "seconds": 12,
+   "text": "Where the routes north and south of the desert met again, under the Pamirs. The Sunday market has run for two thousand years. From here the road climbed passes over four thousand metres into Central Asia."},
+  {"title": "Samarkand", "lat": 39.627, "lon": 66.975, "zoom": 10, "pitch": 50, "bearing": 260, "seconds": 16,
+   "text": "The Sogdian merchants who ran the trade for centuries came from here. Timur made it his capital in 1370, and the blue-tiled Registan is his grandson's: three madrasas around a square that was the market."},
+  {"title": "Merv", "lat": 37.6633, "lon": 62.1741, "zoom": 10, "pitch": 45, "bearing": 250, "seconds": 12,
+   "text": "An oasis city that may have been the largest in the world around 1150, with libraries, an observatory and ice houses. The Mongols destroyed it in 1221. Five walled cities lie side by side in the sand, each abandoned for the next."},
+  {"title": "Baghdad", "lat": 33.3152, "lon": 44.3661, "zoom": 10, "pitch": 45, "bearing": 280, "seconds": 14,
+   "text": "Founded as a round city in 762 and, for two centuries, the centre of the world: the House of Wisdom translated Greek, Persian and Indian science into Arabic. Chinese paper-making arrived along this road and made the books possible."},
+  {"title": "Palmyra", "lat": 34.556, "lon": 38.2691, "zoom": 11, "pitch": 50, "bearing": 300, "seconds": 12,
+   "text": "A caravan city in the Syrian desert that grew rich taxing the trade between Rome and Parthia. Its colonnaded street, temples and tower tombs stood for two thousand years; several were blown up in 2015 and are being rebuilt."},
+  {"title": "Antioch", "lat": 36.2021, "lon": 36.1604, "zoom": 10, "pitch": 45, "bearing": 320, "seconds": 12,
+   "text": "The road's Mediterranean door: goods came down from the plateau to the Orontes and the harbour at Seleucia. Third city of the Roman Empire, shaken by earthquakes again and again, most recently in February 2023."},
+  {"title": "Constantinople", "lat": 41.0082, "lon": 28.9784, "zoom": 11, "pitch": 50, "bearing": 0, "seconds": 16,
+   "text": "Where silk met the West. In the 550s two monks smuggled silkworm eggs out of China in hollow canes, and the Byzantine court started weaving its own. The Grand Bazaar, which opened in 1461, still sells it."}
+ ],
+ "author": "Shell:B",
+ "license": "CC-BY-4.0",
+ "version": "1.0",
+ "tags": ["earth", "history", "trade", "asia"]
+}
