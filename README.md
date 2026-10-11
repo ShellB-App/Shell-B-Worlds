@@ -1,9 +1,9 @@
 # Shell:B Worlds
 
-[![Validate](https://github.com/EveAeternam/Shell-B-Worlds/actions/workflows/validate.yml/badge.svg)](https://github.com/EveAeternam/Shell-B-Worlds/actions/workflows/validate.yml) [![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Validate](https://github.com/ShellB-App/Shell-B-Worlds/actions/workflows/validate.yml/badge.svg)](https://github.com/ShellB-App/Shell-B-Worlds/actions/workflows/validate.yml) [![MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-Community worlds for [Shell:B](https://github.com/EveAeternam/Shell-B), the local-first AI workspace.
-Part of the family with [Shell-B-Themes](https://github.com/EveAeternam/Shell-B-Themes), [Shell-B-Screensavers](https://github.com/EveAeternam/Shell-B-Screensavers) and [Shell-B-Agents](https://github.com/EveAeternam/Shell-B-Agents).
+Community worlds for [Shell:B](https://github.com/ShellB-App/Shell-B), the local-first AI workspace.
+Part of the family with [Shell-B-Themes](https://github.com/ShellB-App/Shell-B-Themes), [Shell-B-Screensavers](https://github.com/ShellB-App/Shell-B-Screensavers) and [Shell-B-Agents](https://github.com/ShellB-App/Shell-B-Agents).
 
 A Shell:B world is **a guided tour and a set of places on one of the worlds in the Worlds app**: Earth, the Moon,
 Mars, the moons of the giant planets, the dwarf planets. A tour is a list of stops the app flies between while the
@@ -99,7 +99,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the pull request checklist.
 
 ## Other collections
 
-Shell:B installs from the whole family: [Shell-B-Themes](https://github.com/EveAeternam/Shell-B-Themes), [Shell-B-Screensavers](https://github.com/EveAeternam/Shell-B-Screensavers) and [Shell-B-Agents](https://github.com/EveAeternam/Shell-B-Agents) work the same way, with a validator, CI and a one-screen checklist each. Found a bug in the app itself? That goes to [Shell-B issues](https://github.com/EveAeternam/Shell-B/issues); questions and show-and-tell to [Discussions](https://github.com/EveAeternam/Shell-B/discussions).
+Shell:B installs from the whole family: [Shell-B-Themes](https://github.com/ShellB-App/Shell-B-Themes), [Shell-B-Screensavers](https://github.com/ShellB-App/Shell-B-Screensavers) and [Shell-B-Agents](https://github.com/ShellB-App/Shell-B-Agents) work the same way, with a validator, CI and a one-screen checklist each. Found a bug in the app itself? That goes to [Shell-B issues](https://github.com/ShellB-App/Shell-B/issues); questions and show-and-tell to [Discussions](https://github.com/ShellB-App/Shell-B/discussions).
 
 ## License
 
